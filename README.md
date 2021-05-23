@@ -1,5 +1,19 @@
-### Hi there 👋
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Adit Shah !
+---
+![GitHub followers](https://img.shields.io/github/followers/adit19shah?style=social)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FAditSha16934402)
+![Twitter Follow](https://img.shields.io/twitter/follow/AditSha16934402?style=social)
 
+#### A budding Android Developer and an active Open Source Contributor trying implementation of various app ideas in native Android. I have also worked with Web Frameworks like Django and hence also have some experience of full-Stack Web Development. My recent projects are mainly centered around these technologies and some relevant add-ons like Web-scraping, various APIs, etc.
+
+#### I am a sophomore pursuing B.Tech in Information and Communication Technology with minors in Computational Science at Dhirubhai Ambani Institute of Information and Communication Technology (DAIICT). I wish to contribute to the आत्मनिर्भर भारत mission as much as I can using my Development skills. I am always in search of app ideas and open source orgs that align with my aim. 
+---
+
+## 🧰 Toolbox
+ 
+<img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="HTML Logo" width="70" height="70"/><img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="70" height="70"/><img src="https://cdn.worldvectorlogo.com/logos/django-community.svg" alt="Django Logo" width="70" height="70"/>
+
+---
 <!--
 **adit19shah/adit19shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
