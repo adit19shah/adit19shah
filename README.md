@@ -9,10 +9,9 @@
 #### I am a sophomore pursuing B.Tech in Information and Communication Technology with minors in Computational Science at Dhirubhai Ambani Institute of Information and Communication Technology (DAIICT). I wish to contribute to the आत्मनिर्भर भारत mission as much as I can using my Development skills. I am always in search of app ideas and open source orgs that align with my aim. 
 ---
 
-<!--## 🧰 Toolbox
+## 🧰 Toolbox
  
-<img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="HTML Logo" width="70" height="70"/><img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="70" height="70"/><img src="https://cdn.worldvectorlogo.com/logos/django-community.svg" alt="Django Logo" width="70" height="70"/>-->
-
+<img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="HTML Logo" width="70" height="70"/><img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="70" height="70"/><img src="https://cdn.worldvectorlogo.com/logos/django-community.svg" alt="Django Logo" width="70" height="70"/><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="70" height="70"/><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="70" height="70"/><img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="70" height="70"/><img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" alt="Kotlin Logo" width="70" height="70"/><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="70" height="70"/><img src="https://cdn.worldvectorlogo.com/logos/android.svg" alt="Android Logo" width="70" height="70"/><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Vsiual Studio Code Logo" width="70" height="70"/><img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="Sublime Logo" width="70" height="70"/><img src="https://cdn.worldvectorlogo.com/logos/pycharm-1.svg" alt="Pycharm Logo" width="70" height="70"/><img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="70" height="70"/>
 ---
 <!--
 **adit19shah/adit19shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
