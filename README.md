@@ -6,7 +6,7 @@
 
 #### A budding Android Developer and an active Open Source Contributor trying implementation of various app ideas in native Android. I have also worked with Web Frameworks like Django and hence also have some experience of full-Stack Web Development. My recent projects are mainly centered around these technologies and some relevant add-ons like Web-scraping, various APIs, etc.
 
-#### I am a sophomore pursuing B.Tech in Information and Communication Technology with minors in Computational Science at Dhirubhai Ambani Institute of Information and Communication Technology (DAIICT). I wish to contribute to the आत्मनिर्भर भारत mission as much as I can using my Development skills. I am always in search of app ideas and open source orgs that align with my aim. 
+#### I am a 3rd year student pursuing B.Tech in Information and Communication Technology with minors in Computational Science at Dhirubhai Ambani Institute of Information and Communication Technology (DAIICT). I wish to contribute to the आत्मनिर्भर भारत mission as much as I can using my Development skills. I am always in search of app ideas and open source orgs that align with my aim. 
 ---
 
 # 🧰 Toolbox
