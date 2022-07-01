@@ -4,7 +4,7 @@
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FAditSha16934402)
 ![Twitter Follow](https://img.shields.io/twitter/follow/AditSha16934402?style=social)
 
-#### A budding Android Developer and an active Open Source Contributor trying implementation of various app ideas in native Android. I have also worked with Web Frameworks like Django and hence also have some experience of full-Stack Web Development. My recent projects are mainly centered around these technologies and some relevant add-ons like Web-scraping, various APIs, etc.
+#### A budding Android Developer and Open Source Contributor trying implementation of various app ideas in native Android. I have also worked with Web Frameworks like Django and hence also have some experience of full-Stack Web Development. My recent projects are mainly centered around these technologies and some relevant add-ons like Web-scraping, various APIs, etc.
 
 ---
 
